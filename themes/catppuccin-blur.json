@@ -681,7 +681,7 @@
         "border.transparent": "#a6d189",
         "border.disabled": "#737994",
         "elevated_surface.background": "#303446",
-        "surface.background": "#30344699",
+        "surface.background": "#0000",
         "background": "#303446d7",
         "element.background": "#232634",
         "element.hover": "#51576d4d",
