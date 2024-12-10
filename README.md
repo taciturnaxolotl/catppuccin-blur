@@ -2,10 +2,9 @@
 
 A fork of the [Catppuccin theme for Zed](https://github.com/catppuccin/zed) with added blur effect.
 
----
+#
 *This version is a fork of the fork ^-^*
 *I wanted to add blue accents and a bit more definition between the panes*
----
 
 ## Previews
 
