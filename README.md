@@ -8,8 +8,8 @@ A fork of the [Catppuccin theme for Zed](https://github.com/catppuccin/zed) with
 
 ## Previews
 
-![Latte Preview](https://raw.githubusercontent.com/jenslys/zed-catppuccin-blurred/master/assets/preview.webp)
-![Mocha Preview](https://raw.githubusercontent.com/jenslys/zed-catppuccin-blur/master/assets/preview-dark.webp)
+![Latte Preview](https://raw.githubusercontent.com/taciturnaxolotl/catppuccin-blur/master/assets/preview.png)
+![Frappe Preview](https://raw.githubusercontent.com/taciturnaxolotl/catppuccin-blur/master/assets/preview-dark.png)
 
 ## Features
 
