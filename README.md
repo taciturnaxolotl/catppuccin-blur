@@ -44,8 +44,8 @@
 
 1. Open Zed.
 2. Press `cmd+shift+p` and select _zed: extensions_.
-3. Search for "`Catppuccin (Blue Blur+)`" and install.
-4. Select the "`Catppuccin Macchiato (Blue Blur+)`" theme in the dropdown shown after hitting `cmd+k`, `cmd+t`.
+3. Search for `Catppuccin Theme (Blue Blur+)` and install.
+4. Select the `Catppuccin Macchiato (Blue Blur+)` theme in the dropdown shown after hitting `ctrl+k`, `ctrl+t` (or `cmd+k`, `cmd+t`).
 
 ## 💖 Huge Thanks to
 
