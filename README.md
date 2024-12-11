@@ -50,7 +50,7 @@
 ## 💖 Huge Thanks to
 
 - the Catppuccin Organization for the original [Catppuccin for Zed](https://github.com/catppuccin/zed) theme
-- and Jens Lystad for the blur fork [Catppuccin for Zed (with Blur)](https://github.com/jenslys/zed-catppuccin-blur)
+- Jens Lystad for the blur fork [Catppuccin for Zed (with Blur)](https://github.com/jenslys/zed-catppuccin-blur)
 
 &nbsp;
 
