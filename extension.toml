@@ -1,7 +1,7 @@
 id = "catppuccin-blur-plus"
 name = "Catppuccin Theme (Blue Blur+)"
 schema_version = 1
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Kieran Klukas <me@dunkirk.sh>"]
 description = "Catppuccin themes with blur, a blue accent color, and strong definition between panes."
 repository = "https://github.com/taciturnaxolotl/catppuccin-blur-zed"
