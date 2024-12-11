@@ -9,10 +9,10 @@
 	<img src="assets/preview.webp"/>
 </p>
 
-#
-
-*This version is a fork of the fork ^-^*  
-*This version has blue accents and a bit more distinction between panels*
+<p align="center">
+    <i>This theme is a derivative of an existing fork ^-^</i><br/>
+    <i>It features blue accent colors and enhanced panel separation</i>
+</p>
 
 ## Previews
 
