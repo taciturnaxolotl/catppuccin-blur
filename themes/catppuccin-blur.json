@@ -1393,7 +1393,7 @@
         "scrollbar.track.border": "#00000000",
         "editor.foreground": "#cad3f5",
         "editor.background": "#24273a8d",
-        "editor.gutter.background": "#24273ad0",
+        "editor.gutter.background": "#24273a9a",
         "editor.subheader.background": "#1e2030",
         "editor.active_line.background": "#cad3f507",
         "editor.highlighted_line.background": "#000000",
