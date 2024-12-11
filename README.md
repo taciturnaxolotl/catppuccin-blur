@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-    <i>This theme is a derivative of an existing fork ^-^</i><br/>
-    <i>It features blue accent colors and enhanced panel separation</i>
+    <i>This theme is a fork of a fork ^-^</i><br/>
+    <i>The main difference of this one is blue accents and better separation between panels</i>
 </p>
 
 ## Previews
